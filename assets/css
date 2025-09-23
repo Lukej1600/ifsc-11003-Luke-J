@@ -1,4 +1,4 @@
 /* homepage css */
 body{
-background-color:aquamarine;
+background-color:rgb(206, 159, 239);
 }
