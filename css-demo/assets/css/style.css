@@ -28,10 +28,10 @@ url("")
 
 
 header.primary{
-background-color:#B065E6;
-text-align:center;
+background-color: #B065E6;
+text-align: center;
 text-shadow: 2px 2px #000000;  
-color:#ffffff;
+color: #ffffff;
 padding: 40px;  
 padding-top: 40px;
 padding-right: 40px;
@@ -169,7 +169,7 @@ img{
 }
 
 #practice a:hover{
-  text decoration:none;
+  text-decoration:none;
 }
 
 .img-right{
